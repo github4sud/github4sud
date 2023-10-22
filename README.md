@@ -6,5 +6,6 @@
 
 ## Skills:
 Language
-java
+
+## Connect with me
 
